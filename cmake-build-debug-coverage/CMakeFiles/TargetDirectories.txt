@@ -1,0 +1,5 @@
+/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/CMakeFiles/Experiment.dir
+/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/CMakeFiles/TestHashTable.dir
+/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/CMakeFiles/MovieReviews.dir
+/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir

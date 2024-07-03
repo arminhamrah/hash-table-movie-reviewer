@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HashTableMovieReviewer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Experiment">
+				<Option output="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/Experiment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 Experiment"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Experiment/fast">
+				<Option output="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/Experiment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 Experiment/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TestHashTable">
+				<Option output="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/TestHashTable" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 TestHashTable"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TestHashTable/fast">
+				<Option output="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/TestHashTable" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 TestHashTable/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MovieReviews">
+				<Option output="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/MovieReviews" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 MovieReviews"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MovieReviews/fast">
+				<Option output="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/MovieReviews" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 MovieReviews/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/WordEntry.cpp">
+			<Option target="Experiment"/>
+			<Option target="MovieReviews"/>
+		</Unit>
+		<Unit filename="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/WordEntry.h">
+			<Option target="Experiment"/>
+			<Option target="MovieReviews"/>
+		</Unit>
+		<Unit filename="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/experimentmain.cpp">
+			<Option target="Experiment"/>
+		</Unit>
+		<Unit filename="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/hashmain.cpp">
+			<Option target="TestHashTable"/>
+		</Unit>
+		<Unit filename="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/moviemain.cpp">
+			<Option target="MovieReviews"/>
+		</Unit>
+		<Unit filename="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/shphashtable.cpp">
+			<Option target="Experiment"/>
+			<Option target="TestHashTable"/>
+			<Option target="MovieReviews"/>
+		</Unit>
+		<Unit filename="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/shphashtable.h">
+			<Option target="Experiment"/>
+			<Option target="TestHashTable"/>
+			<Option target="MovieReviews"/>
+		</Unit>
+		<Unit filename="/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
