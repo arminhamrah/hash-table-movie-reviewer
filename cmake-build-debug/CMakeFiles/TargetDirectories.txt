@@ -1,0 +1,5 @@
+/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug/CMakeFiles/Experiment.dir
+/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug/CMakeFiles/TestHashTable.dir
+/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug/CMakeFiles/MovieReviews.dir
+/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arminhamrah/Downloads/ATCS/HashTableMovieReviewer2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
